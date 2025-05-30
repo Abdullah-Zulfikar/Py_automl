@@ -1,0 +1,5 @@
+pycaret>=3.0
+pandas-profiling
+sweetviz
+scikit-learn
+matplotlib
